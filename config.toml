@@ -122,7 +122,7 @@ url = "/mastering-spring-mvc-4/"
 name = "Repo"
 weight = 0
 identifier = "repository"
-url = "https://github.com/geowarin/blog-src"
+url = "https://github.com/geowarin/blog"
 
 [blackfriday]
 hrefTargetBlank = true
